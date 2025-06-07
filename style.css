@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 0 20px;
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+}
+
+#name h2 {
+    font-size: 2.5rem;
+    margin-bottom: 0;
+}
+
+#name p {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
+
+#social-websites ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#social-websites ul li a:hover {
+    color: #007BFF;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #333;
+    color: #fff;
+}
